@@ -1,0 +1,7 @@
+name: Ali
+city: Kashan
+major: Translation
+
+name: Sara
+city: Tehran
+note: met at 10:30
